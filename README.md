@@ -26,4 +26,4 @@ When the countdown finishes, it prints "=== Countdown Complete ===".
  
 ## Author
  
-[Martin Agyemang Ohene-Odei] — [2526403284]
+Martin Agyemang Ohene-Odei — 2526403284
